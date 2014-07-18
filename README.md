@@ -12,3 +12,5 @@ Framework: Spring
 
 Issues you may face to run this application:
 After downloading this project from the Git, you may need to create src/main/resources folder to run this application.
+
+In order to make calls to the Zappos API, you will need to use an API key. Please use the following API key when making these calls - a73121520492f88dc3d33daf2103d7574f1a3166
